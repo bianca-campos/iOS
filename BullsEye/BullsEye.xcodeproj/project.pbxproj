@@ -13,6 +13,7 @@
 		FA183568216FFF740023FF23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA183567216FFF740023FF23 /* Assets.xcassets */; };
 		FA18356B216FFF740023FF23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA183569216FFF740023FF23 /* LaunchScreen.storyboard */; };
 		FADDF1EC2187DEB200F86A36 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADDF1EB2187DEB200F86A36 /* AboutViewController.swift */; };
+		FADDF1FC218AA8B900F86A36 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = FADDF1FB218AA8B900F86A36 /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FA18356A216FFF740023FF23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA18356C216FFF740023FF23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FADDF1EB2187DEB200F86A36 /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		FADDF1FB218AA8B900F86A36 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = BullsEye.html; path = Resources/BullsEye.html; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		FA18355F216FFF720023FF23 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				FADDF1FB218AA8B900F86A36 /* BullsEye.html */,
 				FA183560216FFF720023FF23 /* AppDelegate.swift */,
 				FA183562216FFF720023FF23 /* ViewController.swift */,
 				FADDF1EB2187DEB200F86A36 /* AboutViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA18356B216FFF740023FF23 /* LaunchScreen.storyboard in Resources */,
+				FADDF1FC218AA8B900F86A36 /* BullsEye.html in Resources */,
 				FA183568216FFF740023FF23 /* Assets.xcassets in Resources */,
 				FA183566216FFF720023FF23 /* Main.storyboard in Resources */,
 			);
